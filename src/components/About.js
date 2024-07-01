@@ -2,7 +2,7 @@
 
 export default function About(props) {
 
-    
+    /// aSPHNAD WORK
     // const [myStyle, setMyStyle] = useState({
     //     color: 'black',
     //     backgroundColor: "white"
